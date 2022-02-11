@@ -6,3 +6,9 @@ body {
     color: navy;
     margin-left: 20px;
     }
+    p{
+
+        background-color: pink;
+        font-weight: bolder;
+        font-size: 100px;
+    }
